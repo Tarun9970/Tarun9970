@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Im Tarun, Thi Github profile is to help schowcase my PowerBI and SQL projects that ive worked on.<br>My projects highlight my skills in data modeling, DAX, and making data look accesible and beautiful at the same time!<br>I'm always learning and trying to better my skills and new ways to make my work more efficient.<br>Thanks for stopping by!
+Hi, I'm Tarun. This Github profile is to help showcase my Power BI and SQL projects that I've worked on.<br>My projects highlight my skills in data modeling, DAX, and making data look accessible and beautiful at the same time!<br>I'm always learning and trying to better my skills and new ways to make my work more efficient.<br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
